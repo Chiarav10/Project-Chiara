@@ -4,6 +4,8 @@ Dit Python Project bestaat uit twee onderdelen:
 2. Opdracht2.py -> Financiële cashflow-berekeningen van IRR, REV, Winst na belasting en TVT
 Het If-statment werkt volledig, maar bevat maar op een plek de berekeningen en het ophalen van de data
 
+Extra -- test.py -> Filterd door de database heen om gelijk de juiste Categorie te krijgen (vergelijk opdracht1.py) bevat niet de desbeteffende formules
+
 ## 📁 Bestandsstructuur
 
 - `PraeterBV_Case.xlsx` – Excelbestand met inputgegevens
